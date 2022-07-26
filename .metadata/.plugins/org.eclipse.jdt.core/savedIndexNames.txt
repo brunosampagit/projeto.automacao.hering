@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\bruno.nascimento\Documents\Bruno\Curso-E2E-JAVA\repositorio_git\automacao_projeto_hering\.metadata\.plugins\org.eclipse.jdt.core
+3856619895.index
+1865797976.index
+217047792.index
